@@ -1,5 +1,7 @@
 
-# 📱Mobile Price Prediction System
+![PriceWise](https://github.com/user-attachments/assets/671f954a-3fba-4edf-a5ca-c789c46e9baf)
+
+# 📱PriceWise: Mobile Pricing Insights
 
 ## Overview
 The Mobile Price Prediction System is a project aimed at developing a predictive tool that utilizes advanced regression analysis techniques to accurately forecast market prices of mobile phones based on feaures of mobile device received from user.
