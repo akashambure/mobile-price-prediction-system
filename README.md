@@ -4,7 +4,7 @@
 # 📱PriceWise: Mobile Pricing Insights
 
 ## Overview
-The Mobile Price Prediction System is a project aimed at developing a predictive tool that utilizes advanced regression analysis techniques to accurately forecast market prices of mobile phones based on feaures of mobile device received from user.
+The PriceWise: Mobile Pricing Insights is a project aimed at developing a predictive tool that utilizes advanced regression analysis techniques to accurately forecast market prices of mobile phones based on feaures of mobile device received from user.
 
 ## Installation Instructions
 To run the application, execute the following command:
